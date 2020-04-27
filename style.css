@@ -1,0 +1,45 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+/*--------------- Header ---------------*/
+header {
+  background-color: #a5a5a5;
+}
+
+#head {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  height: 200px;
+}
+
+#logo {
+  flex: none;
+  width: 10%;
+  padding-left: 2%;
+}
+
+#titre-principal {
+  font-size: 2.5em;
+  width: 50%;
+  align-items: center;
+}
+
+#navigateur {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 60%;
+  font-size: 1.8em;
+}
+
+#navigateur a {
+  text-decoration: none;
+  color: #000000;
+}
+
+#navigateur a:hover {
+  color: #960f0f;
+}
