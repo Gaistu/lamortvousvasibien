@@ -1,2 +1,2 @@
 # La mort vous va si bien
-Ceci sera un site sur les pronostiques sur les prochains mort célèbres
+Ceci sera un site sur les présages sur les prochains mort célèbres
